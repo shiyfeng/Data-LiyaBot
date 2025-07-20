@@ -1,0 +1,73 @@
+{
+    "char": {
+        "title": "「今日的指挥练习」、「翠园佳绣」",
+        "pool_img": "",
+        "start_time": "2024-05-21T17:00:00",
+        "end_time": "2024-06-13T10:00:00",
+        "up_char": [
+            {
+                "name": "阿尔萨斯",
+                "star": 5,
+                "limited": false,
+                "zoom": 1.2,
+                "type_": "战列"
+            },
+            {
+                "name": "莫加多尔",
+                "star": 5,
+                "limited": false,
+                "zoom": 0.0,
+                "type_": "驱逐"
+            },
+            {
+                "name": "布伦努斯",
+                "star": 4,
+                "limited": false,
+                "zoom": 2.0,
+                "type_": "重巡"
+            },
+            {
+                "name": "贝亚恩·META",
+                "star": 6,
+                "limited": false,
+                "zoom": 0.5,
+                "type_": "航母"
+            },
+            {
+                "name": "花剑",
+                "star": 3,
+                "limited": false,
+                "zoom": 2.5,
+                "type_": "驱逐"
+            },
+            {
+                "name": "重剑",
+                "star": 3,
+                "limited": false,
+                "zoom": 0.0,
+                "type_": "驱逐"
+            },
+            {
+                "name": "科罗拉多",
+                "star": 4,
+                "limited": false,
+                "zoom": 0.0,
+                "type_": "战列"
+            },
+            {
+                "name": "小腓特烈",
+                "star": 3,
+                "limited": false,
+                "zoom": 0.0,
+                "type_": "战列"
+            },
+            {
+                "name": "福煦·META",
+                "star": 6,
+                "limited": false,
+                "zoom": 0.0,
+                "type_": "重巡"
+            }
+        ]
+    }
+}

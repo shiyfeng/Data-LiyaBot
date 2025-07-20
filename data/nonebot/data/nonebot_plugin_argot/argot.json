@@ -1,0 +1,42 @@
+[
+  {
+    "message_id": "1954248445",
+    "name": "background",
+    "segment": [
+      {
+        "type": "image",
+        "path": "C:/Users/13266/Desktop/nb/bot/LiyaBot/.venv/Lib/site-packages/nonebot_plugin_pcr_sign/resources/images/background.png",
+        "name": "background.png"
+      }
+    ],
+    "command": "background",
+    "created_at": "2025-07-16T20:54:21.010269",
+    "expired_at": "2025-07-16T20:59:49.822243"
+  },
+  {
+    "message_id": "1954248445",
+    "name": "stamp",
+    "segment": [
+      {
+        "type": "image",
+        "id": "C:\\Users\\13266\\Desktop\\nb\\bot\\LiyaBot\\.venv\\Lib\\site-packages\\nonebot_plugin_pcr_sign\\resources\\stamps\\40.png"
+      }
+    ],
+    "command": "stamp",
+    "created_at": "2025-07-16T20:54:21.010269",
+    "expired_at": "2025-07-16T20:59:49.826896"
+  },
+  {
+    "message_id": "1954248445",
+    "name": "raw",
+    "segment": [
+      {
+        "type": "text",
+        "text": "欢迎回来，主人~！\n好感+8！当前好感：8\n主人今天要井一发当期的限定池吗？\n\n今日一言：小时候哭着哭着就笑了，长大后笑着笑着就哭了。"
+      }
+    ],
+    "command": "raw",
+    "created_at": "2025-07-16T20:54:21.010269",
+    "expired_at": "2025-07-16T20:59:49.829247"
+  }
+]
